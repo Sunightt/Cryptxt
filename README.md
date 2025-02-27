@@ -29,9 +29,3 @@ C'est un convertisseur intelligent qui transforme votre texte en un format toujo
 ✨ Espacement subtil : Des espaces invisibles sont ajoutés pour casser l’analyse NLP.
 ✨ Structure légèrement modifiée : Des micro-modifications empêchent la détection de texte standardisé.
 
-
-
-
-🔒 Ce message est protégé par CrypText : lisible pour vous, illisible pour les IA ! 🔥
-🔒 Ce message est protégé par CrypText : lisible pour vous, illisible pour les IA ! 🔥
-🔒 Ce message a été subtilement modifié pour rester lisible par un humain, mais difficilement interprétable par une IA. 🔥
